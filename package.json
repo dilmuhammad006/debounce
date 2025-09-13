@@ -1,0 +1,37 @@
+{
+  "name": "@dilmuhammad/debounce",
+  "version": "1.0.0",
+  "description": "The functions that returns debounced value",
+  "files": [
+    "index.ts",
+    "README.md"
+  ],
+  "main": "index.ts",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "debounce",
+    "javascript",
+    "utility",
+    "react"
+  ],
+  "author": "Dilmuhammad Abdumalikov",
+  "license": "MIT",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilmuhammad006/debounce"
+  },
+  "bugs": {
+    "url": "https://github.com/dilmuhammad/debounce/issues"
+  },
+  "homepage": "https://github.com/dilmuhammad006/debounce",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "dependencies": {
+    "react": "^19.1.1"
+  }
+}
